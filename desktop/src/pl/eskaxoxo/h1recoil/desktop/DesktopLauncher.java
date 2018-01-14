@@ -8,6 +8,7 @@ public class DesktopLauncher {
 	public static void main (String[] arg) {
 		LwjglApplicationConfiguration config = new LwjglApplicationConfiguration();
 		
+		config.title = "H1 Recoil Tester";
 		config.width = 800;
 		config.height = 450;
 		

@@ -5,6 +5,11 @@ H1Z1 Recoil Tester (LibGDX framework)
 Hello! I had some spare time today so I decided to create H1 Recoil Tester with LibGDX framework.
 Feel free to test both horizontal and vertical recoil before we get it on Test Server! :-)
 
+Video: https://youtu.be/bP2d6D_i1sM
+
+[![Video](https://img.youtube.com/vi/bP2d6D_i1sM/0.jpg)](https://www.youtube.com/watch?v=bP2d6D_i1sM)
+
+
 # Options
 Use keys 1,2,3,4,5,6,7,8,9 and 0 to change values.
 

@@ -13,6 +13,10 @@ Video: https://youtu.be/bP2d6D_i1sM
 # Options
 Use keys 1,2,3,4,5,6,7,8,9 and 0 to change values.
 
+# Requirements
+
+You need Java to run this app. Download it here: https://www.java.com/pl/download/
+
 # Download
 You can compile the source code by yourself or use one of the links to download the app:
 
